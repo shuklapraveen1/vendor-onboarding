@@ -1,0 +1,45 @@
+{
+  "_comment": "Mock RBI IFSC directory + penny-drop (account-holder-name) verification. Fictional accounts.",
+  "bank_codes": {
+    "HDFC": "HDFC Bank",
+    "ICIC": "ICICI Bank",
+    "SBIN": "State Bank of India",
+    "UTIB": "Axis Bank",
+    "KKBK": "Kotak Mahindra Bank",
+    "PUNB": "Punjab National Bank",
+    "BARB": "Bank of Baroda",
+    "CNRB": "Canara Bank",
+    "YESB": "Yes Bank",
+    "IDIB": "Indian Bank",
+    "UBIN": "Union Bank of India",
+    "INDB": "IndusInd Bank",
+    "IDFB": "IDFC FIRST Bank",
+    "FDRL": "Federal Bank"
+  },
+  "branches": {
+    "HDFC0000523": {"branch": "Koramangala", "city": "Bengaluru", "state": "Karnataka"},
+    "HDFC0001234": {"branch": "Banjara Hills", "city": "Hyderabad", "state": "Telangana"},
+    "HDFC0000123": {"branch": "Connaught Place", "city": "New Delhi", "state": "Delhi"},
+    "ICIC0000104": {"branch": "Kothrud", "city": "Pune", "state": "Maharashtra"},
+    "ICIC0000623": {"branch": "Secunderabad", "city": "Hyderabad", "state": "Telangana"},
+    "ICIC0000456": {"branch": "Vijay Nagar", "city": "Indore", "state": "Madhya Pradesh"},
+    "SBIN0001055": {"branch": "Civil Lines", "city": "Kanpur", "state": "Uttar Pradesh"},
+    "SBIN0000915": {"branch": "Guindy", "city": "Chennai", "state": "Tamil Nadu"},
+    "UTIB0000048": {"branch": "Navrangpura", "city": "Ahmedabad", "state": "Gujarat"},
+    "KKBK0008067": {"branch": "Vidyanagar", "city": "Hubballi", "state": "Karnataka"},
+    "KKBK0000958": {"branch": "MG Road", "city": "Kochi", "state": "Kerala"}
+  },
+  "accounts": {
+    "50200012345678|HDFC0000523": "KAVERI PRECISION COMPONENTS PVT LTD",
+    "000405012345|ICIC0000104": "SAHYADRI FREIGHT MOVERS PRIVATE LTD",
+    "32145678901|SBIN0001055": "GANGA TEXTILES PVT LTD",
+    "917020045678123|UTIB0000048": "NARMADA AGRO EXPORTS PVT LTD",
+    "8412345609|KKBK0008067": "RAVI KUMAR ENTERPRISES",
+    "062305001122|ICIC0000623": "DECCAN PAPER PRODUCTS PVT LTD",
+    "50100098765432|HDFC0001234": "DECCAN PAPER AND PACKAGING PVT LTD",
+    "39876543210|SBIN0000915": "ZENITH GLOBAL TRADERS PVT LTD",
+    "045605009876|ICIC0000456": "VINDHYA INFRA PROJECTS PVT LTD",
+    "7712345678|KKBK0000958": "MALABAR SPICES TRADING CO PVT LTD",
+    "50200077889900|HDFC0000123": "KONARK ELECTRICALS PVT LTD"
+  }
+}

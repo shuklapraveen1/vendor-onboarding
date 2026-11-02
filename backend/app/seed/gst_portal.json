@@ -1,0 +1,15 @@
+{
+  "_comment": "Mock GST portal (public 'Search Taxpayer' API stand-in). Fictional records. GSTINs not listed here get a simulated response.",
+  "records": {
+    "29AABCK4127M1ZA": {"legal_name": "KAVERI PRECISION COMPONENTS PRIVATE LIMITED", "trade_name": "KAVERI PRECISION", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2017-07-01"},
+    "27AAKCS7731Q1ZH": {"legal_name": "SAHYADRI FREIGHT MOVERS PRIVATE LIMITED", "trade_name": "SAHYADRI FREIGHT", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2018-09-14"},
+    "09AACCG2290H1ZM": {"legal_name": "GANGA TEXTILES PRIVATE LIMITED", "trade_name": "GANGA TEXTILES", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2017-07-01"},
+    "27AAECN4821K1ZB": {"legal_name": "NARMADA AGRO EXPORTS PRIVATE LIMITED", "trade_name": "NARMADA AGRO", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2019-04-01"},
+    "29AAFCT5567R1Z9": {"legal_name": "TUNGABHADRA STEEL FABRICATORS PRIVATE LIMITED", "trade_name": "TUNGABHADRA STEEL", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2019-11-02"},
+    "36AADCD3344E1Z0": {"legal_name": "DECCAN PAPER PRODUCTS PRIVATE LIMITED", "trade_name": "DECCAN PAPER", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2017-07-01"},
+    "33AAHCZ9087B1Z2": {"legal_name": "ZENITH GLOBAL TRADERS PRIVATE LIMITED", "trade_name": "ZENITH GLOBAL", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2020-08-21"},
+    "23AAGCV6612D1ZN": {"legal_name": "VINDHYA INFRA PROJECTS PRIVATE LIMITED", "trade_name": "VINDHYA INFRA", "status": "Cancelled", "constitution": "Private Limited Company", "registration_date": "2017-07-01", "cancellation_date": "2025-03-31", "cancellation_reason": "Non-filing of returns for a continuous period of six months"},
+    "32AAECM1188P1Z5": {"legal_name": "MALABAR SPICES TRADING CO PRIVATE LIMITED", "trade_name": "MALABAR SPICES", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2017-07-01"},
+    "07AABCK5521F1ZV": {"legal_name": "KONARK ELECTRICALS PRIVATE LIMITED", "trade_name": "KONARK ELECTRICALS", "status": "Active", "constitution": "Private Limited Company", "registration_date": "2017-07-01"}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_comment": "Mock Ministry of Corporate Affairs master data. Fictional records. CINs not listed here get a simulated response.",
+  "records": {
+    "U29100KA2015PTC081234": {"company_name": "KAVERI PRECISION COMPONENTS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2015-03-12", "roc": "RoC-Bangalore"},
+    "U63090MH2018PTC305512": {"company_name": "SAHYADRI FREIGHT MOVERS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2018-06-04", "roc": "RoC-Pune"},
+    "U17110UP2011PTC045678": {"company_name": "GANGA TEXTILES PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2011-01-19", "roc": "RoC-Kanpur"},
+    "U01400GJ2016PTC092345": {"company_name": "NARMADA AGRO EXPORTS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2016-10-07", "roc": "RoC-Ahmedabad"},
+    "U28100KA2019PTC123456": {"company_name": "TUNGABHADRA STEEL FABRICATORS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2019-05-23", "roc": "RoC-Bangalore"},
+    "U21012TG2012PTC081122": {"company_name": "DECCAN PAPER PRODUCTS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2012-04-16", "roc": "RoC-Hyderabad"},
+    "U51909TN2020PTC134567": {"company_name": "ZENITH GLOBAL TRADERS PRIVATE LIMITED", "status": "Active", "date_of_incorporation": "2020-02-11", "roc": "RoC-Chennai"},
+    "U45200MP2014PTC033221": {"company_name": "VINDHYA INFRA PROJECTS PRIVATE LIMITED", "status": "Strike Off", "date_of_incorporation": "2014-08-29", "roc": "RoC-Gwalior"}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "Existing approved vendors in the buyer's ERP vendor master (fictional). Used for duplicate / shared-bank-account detection.",
+  "vendors": [
+    {"vendor_code": "VEND-0001", "legal_name": "MALABAR SPICES TRADING CO PRIVATE LIMITED", "pan": "AAECM1188P", "gstin": "32AAECM1188P1Z5", "account_number": "7712345678", "ifsc": "KKBK0000958"},
+    {"vendor_code": "VEND-0002", "legal_name": "KONARK ELECTRICALS PRIVATE LIMITED", "pan": "AABCK5521F", "gstin": "07AABCK5521F1ZV", "account_number": "50200077889900", "ifsc": "HDFC0000123"},
+    {"vendor_code": "VEND-0003", "legal_name": "DECCAN PAPER PRODUCTS PRIVATE LIMITED", "pan": "AADCD3344E", "gstin": "36AADCD3344E1Z0", "account_number": "062305001122", "ifsc": "ICIC0000623"}
+  ]
+}

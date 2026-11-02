@@ -1,0 +1,13 @@
+{
+  "_comment": "DEMO watchlist. All entries are FICTIONAL and only modelled on the shape of consolidated lists (OFAC SDN / UN / EU). Do not treat as real sanctions data.",
+  "list_name": "Demo Consolidated Watchlist",
+  "list_version": "2026-10-15",
+  "entries": [
+    {"id": "DW-1001", "name": "ZENITH GLOBAL TRADING FZE", "aliases": ["ZENITH GLOBAL TRADING LLC", "ZGT FZE"], "type": "entity", "country": "United Arab Emirates", "program": "DEMO-EXPORT-CONTROL", "listed_on": "2023-06-12", "identifiers": {"trade_license": "DMCC-778812"}},
+    {"id": "DW-1002", "name": "ORION MARITIME HOLDINGS LTD", "aliases": ["ORION MARITIME"], "type": "entity", "country": "Panama", "program": "DEMO-SHIPPING", "listed_on": "2022-02-01", "identifiers": {}},
+    {"id": "DW-1003", "name": "NOVASTAR PETROCHEM TRADING", "aliases": ["NOVA STAR PETRO"], "type": "entity", "country": "Cyprus", "program": "DEMO-ENERGY", "listed_on": "2024-09-30", "identifiers": {}},
+    {"id": "DW-2001", "name": "VIKRAM ANAND SETHURAMAN", "aliases": ["V A SETHURAMAN"], "type": "individual", "country": "India", "program": "DEMO-FRAUD", "listed_on": "2021-11-18", "identifiers": {}},
+    {"id": "DW-2002", "name": "DMITRI PAVLOV KORSAKOV", "aliases": [], "type": "individual", "country": "Russia", "program": "DEMO-FINANCE", "listed_on": "2022-03-15", "identifiers": {}},
+    {"id": "DW-1004", "name": "BLUE LOTUS IMPEX PRIVATE LIMITED", "aliases": ["BLUE LOTUS IMPEX"], "type": "entity", "country": "India", "program": "DEMO-FRAUD", "listed_on": "2025-01-20", "identifiers": {"pan": "AAACB9999Z"}}
+  ]
+}
